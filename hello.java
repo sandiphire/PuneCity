@@ -4,5 +4,7 @@ Class A
   {
      System.out.println("Welcome at Pune");
      System.out.println("Welcome to Panchavati");
+     System.out.println("Welcome to Pashan");
+     System.out.println("Welcome to CDAC DBDA");
   }
 }
